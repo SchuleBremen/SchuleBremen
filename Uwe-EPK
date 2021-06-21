@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:11:33.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="o3cGtmq6q4jwz-NFjrKB" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T09:13:15.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7e8wFNz36w_5Ahbu5Xyi" version="14.8.0" type="github">
   <diagram id="v2UvtJ4E_FgZBAx0h-Nl" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,36 @@
             <mxPoint x="545.5" y="850" as="sourcePoint" />
             <mxPoint x="544" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-41" value="Konto" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-42" value="Rewe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="990" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-43" value="UND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="1050" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[0.95,0.4],[1,0.5],[0.75,1],[0.25,1],[0,0.5],[0,0.5]];polyline=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-44">
+          <mxGeometry width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-46" value="Verbindlichkeit ist entstanden" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-44">
+          <mxGeometry x="80" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="1020" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[0.95,0.4],[1,0.5],[0.75,1],[0.25,1],[0,0.5],[0,0.5]];polyline=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-47">
+          <mxGeometry width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-49" value="Zahlungstermin erreicht" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-47">
+          <mxGeometry x="80" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3dSD41jUxFuugknNdZZW-52" value="Buchung der Zahlung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
