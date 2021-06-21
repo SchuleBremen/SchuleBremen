@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:07:02.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="rqNiMSap3YG6Okw7jWLf" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T09:11:33.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="o3cGtmq6q4jwz-NFjrKB" version="14.8.0" type="github">
   <diagram id="v2UvtJ4E_FgZBAx0h-Nl" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="3dSD41jUxFuugknNdZZW-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[0.95,0.4],[1,0.5],[0.75,1],[0.25,1],[0,0.5],[0,0.5]];polyline=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-33">
           <mxGeometry width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3dSD41jUxFuugknNdZZW-35" value="Rechnung weist Fehler auf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-33">
+        <mxCell id="3dSD41jUxFuugknNdZZW-35" value="Lieferantenrechnung ist nicht richtig" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dSD41jUxFuugknNdZZW-33">
           <mxGeometry x="80" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3dSD41jUxFuugknNdZZW-37" value="Rechnung buchen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
